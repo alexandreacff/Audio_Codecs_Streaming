@@ -39,10 +39,9 @@ Certifique-se de que os seguintes softwares estão instalados no sistema:
    cd Audio_Codecs_Streaming
    ```
 
-2. (Opcional) Configure o ambiente Docker:
+2.Configure o ambiente:
    ```bash
-   docker build -t websocket-audio .
-   ./container_bash
+   pip install -r requirements.txt
    ```
 
 3. Configure o `tc` para simulação de tráfego. Exemplos estão disponíveis no diretório `examples/`.

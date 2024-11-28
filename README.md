@@ -19,7 +19,7 @@ Avaliar o impacto de diferentes tokenizers no desempenho e na latência de trans
 ├── decode/            # Pacotes referentes ao WavTokenizer
 ├── *.py               # Scripts de server e client para avaliação das métricas.
 ├── examples/          # Exemplos da utilização do repositório
-├── Dockerfile         # Ambiente configurado para reprodução dos testes
+├── requiriments.txt   # Pacotes para reprodução dos testes
 └── README.md          # Documentação do projeto
 ```
 

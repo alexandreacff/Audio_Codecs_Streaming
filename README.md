@@ -47,6 +47,7 @@ Certifique-se de que os seguintes softwares estão instalados no sistema:
 
 3. Configure o `tc` para simulação de tráfego. Exemplos estão disponíveis no diretório `examples/`.
 
+4. Download model e o config.yaml em: https://huggingface.co/novateur/WavTokenizer/tree/main
 ## Como Executar
 
 1. Configure as condições de rede desejadas com o `tc`:
